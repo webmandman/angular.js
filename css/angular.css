@@ -8,4 +8,5 @@
 
 ng\:form {
   display: block;
+  display: block !important;
 }
